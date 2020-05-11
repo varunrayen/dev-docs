@@ -11,3 +11,11 @@
 * [Commands Cheatsheet](linux/commands-cheatshhet.md)
 * [Fail2Ban Setup](linux/fail2ban-setup.md)
 
+## Streams
+
+* [Apache Kafka](streams/apache-kafka.md)
+
+## DevOps
+
+* [Docker](devops/docker.md)
+
